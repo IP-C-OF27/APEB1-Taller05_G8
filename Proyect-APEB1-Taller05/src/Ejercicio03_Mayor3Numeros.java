@@ -27,8 +27,8 @@ Deme 3 num:
 2
 3
 1
-3
-BUILD SUCCESSFUL (total time: 6 seconds)
+El mayor es 3
+BUILD SUCCESSFUL (total time: 2 seconds)
 * 
  */
                     
