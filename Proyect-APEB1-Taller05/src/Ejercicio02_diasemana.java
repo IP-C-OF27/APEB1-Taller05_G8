@@ -49,5 +49,5 @@ public class Ejercicio02_diasemana {
 Dame nro. dia (1 al 7): 3
 El numero: 3 Corresponde a: miercoles
 BUILD SUCCESSFUL (total time: 2 seconds)
-
+* 
  */
