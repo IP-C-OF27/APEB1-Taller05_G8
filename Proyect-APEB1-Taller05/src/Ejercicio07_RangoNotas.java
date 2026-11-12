@@ -28,6 +28,15 @@ public class Ejercicio07_RangoNotas {
         }
     }
 }
+/***
+ * EVIDENCIA DEL RUN:
+ * run:
+Ingrese la calificacion: 
+68
+La calificacion asignada es: D
+BUILD SUCCESSFUL (total time: 14 seconds)
+* 
+ */
 
                     
         
